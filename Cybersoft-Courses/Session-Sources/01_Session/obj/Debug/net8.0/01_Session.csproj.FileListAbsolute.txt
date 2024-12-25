@@ -1,0 +1,15 @@
+/Users/bbysharp/Apps/Bootcamp .Net 02/Cybersoft-Courses/Session-Sources/01_Session/bin/Debug/net8.0/01_Session
+/Users/bbysharp/Apps/Bootcamp .Net 02/Cybersoft-Courses/Session-Sources/01_Session/bin/Debug/net8.0/01_Session.deps.json
+/Users/bbysharp/Apps/Bootcamp .Net 02/Cybersoft-Courses/Session-Sources/01_Session/bin/Debug/net8.0/01_Session.runtimeconfig.json
+/Users/bbysharp/Apps/Bootcamp .Net 02/Cybersoft-Courses/Session-Sources/01_Session/bin/Debug/net8.0/01_Session.dll
+/Users/bbysharp/Apps/Bootcamp .Net 02/Cybersoft-Courses/Session-Sources/01_Session/bin/Debug/net8.0/01_Session.pdb
+/Users/bbysharp/Apps/Bootcamp .Net 02/Cybersoft-Courses/Session-Sources/01_Session/obj/Debug/net8.0/01_Session.GeneratedMSBuildEditorConfig.editorconfig
+/Users/bbysharp/Apps/Bootcamp .Net 02/Cybersoft-Courses/Session-Sources/01_Session/obj/Debug/net8.0/01_Session.AssemblyInfoInputs.cache
+/Users/bbysharp/Apps/Bootcamp .Net 02/Cybersoft-Courses/Session-Sources/01_Session/obj/Debug/net8.0/01_Session.AssemblyInfo.cs
+/Users/bbysharp/Apps/Bootcamp .Net 02/Cybersoft-Courses/Session-Sources/01_Session/obj/Debug/net8.0/01_Session.csproj.CoreCompileInputs.cache
+/Users/bbysharp/Apps/Bootcamp .Net 02/Cybersoft-Courses/Session-Sources/01_Session/obj/Debug/net8.0/01_Session.sourcelink.json
+/Users/bbysharp/Apps/Bootcamp .Net 02/Cybersoft-Courses/Session-Sources/01_Session/obj/Debug/net8.0/01_Session.dll
+/Users/bbysharp/Apps/Bootcamp .Net 02/Cybersoft-Courses/Session-Sources/01_Session/obj/Debug/net8.0/refint/01_Session.dll
+/Users/bbysharp/Apps/Bootcamp .Net 02/Cybersoft-Courses/Session-Sources/01_Session/obj/Debug/net8.0/01_Session.pdb
+/Users/bbysharp/Apps/Bootcamp .Net 02/Cybersoft-Courses/Session-Sources/01_Session/obj/Debug/net8.0/01_Session.genruntimeconfig.cache
+/Users/bbysharp/Apps/Bootcamp .Net 02/Cybersoft-Courses/Session-Sources/01_Session/obj/Debug/net8.0/ref/01_Session.dll
